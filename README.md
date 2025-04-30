@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wolfremmi) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://youtu.be/xvFZjo5PgG0?si=TwaG9UBhifYMzn4r)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wolfremmii&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=wolfremmii&theme=dark&hide_border=false)<br/>
