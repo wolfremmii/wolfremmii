@@ -13,7 +13,7 @@
 
 🚀 I constantly grow, learn new things, and strive to make my projects better every day.
 
-💻 I'll write clean and understandable
+💻 I'll write clean and understandable code for you
 
  *I speak:*
 ---
