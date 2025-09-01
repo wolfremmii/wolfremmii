@@ -3,7 +3,9 @@
 </p>
 
 # 💫 About Me:
-💻 I love coding and creating useful tools — from any bots(Telegram, Discord...) to Python programs<br><br>✍️ I'm decent at writing and always open to client feedback — I’m ready to improve my work whenever needed.<br><br>🚀 I constantly grow, learn new things, and strive to make my projects better every day.<br><br>💻 I'll write clean and understandable code for you
+I’m a Junior Backend Developer working mainly with Node.js and Python. I create backend logic for web apps using Django and Express, and I work with databases like MongoDB to keep data organized and reliable.
+
+I take tasks seriously and try to write clean, simple, and efficient code. I’m learning fast, enjoy solving problems, and like to make things work smoothly. My goal is to help build apps that are practical, stable, and easy to maintain.
 
 
 ## 🌐 Socials:
